@@ -46,7 +46,6 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   </p>
 
   <p>
-
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   </p>
   <br/>
