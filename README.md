@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Business Intelligence Analyst | Business Analyst</h3>
 <h3 align="center">--------------------</h3>
 
-A dedicated and results-oriented professional with 4 years of industry experience on a quest to uncover hidden insights within data to drive decisions.
+<h4 align="center">A dedicated and results-oriented professional with 4 years of industry experience on a quest to uncover hidden insights within data to drive decisions.</h4>
 
 * 🌍  I'm based in New Jersey
 * 🎓  I recently graduated with a Master's degree in Information Systems.
