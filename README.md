@@ -39,13 +39,10 @@ A dedicated and results-oriented professional with 4 years of industry experienc
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ Tools and Technologies</h3>
 
   <p>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  </p>
-
-  <p>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   </p>
   <br/>
