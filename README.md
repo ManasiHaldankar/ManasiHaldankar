@@ -30,6 +30,7 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   <p>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -53,8 +54,6 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ManasiHaldankar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasiHaldankar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </details>
