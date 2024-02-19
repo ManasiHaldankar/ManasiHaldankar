@@ -12,16 +12,12 @@ A dedicated and results-oriented professional with 4 years of industry experienc
 * 🚀  I work on SQL, Python, R, Tableau, Power BI, SAP.
 * 🧠  I'm learning AI and ML using Python
 
-<details> 
   <h2>👥 My Socials</h2>
     <p align="left"> 
       <a href="https://www.github.com/ManasiHaldankar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
       <a href="https://www.linkedin.com/in/manasi-haldankar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
       <a href="https://leetcode.com/mhaldank/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" width="32" height="32" /></a>
     </p>
-</details>
-
-<details> 
 
   <h3>👨‍💻 Languages and Tools</h3>
 
@@ -42,7 +38,6 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   </p>
   <br/>
   <p><b>Note:<b> Sorted alphabetically and doesn't reflect order of understanding or liking.</p>
-</details>
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
