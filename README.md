@@ -30,7 +30,6 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   <p>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
      <a href="#"><img alt="R" src="https://img.shields.io/badge/R-8A2BE2"></a>
   </p>
 
@@ -39,6 +38,12 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   <p>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-150458.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit-Learn-150458.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="ggplot" src="https://img.shields.io/badge/ggplot-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-150458.svg?logo=numpy&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Tools and Technologies</h3>
