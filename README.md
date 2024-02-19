@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manasi Haldankar</h1>
-====================================================================================================================================
 
 <h3 align="center">Data Analyst | Business Intelligence Analyst | Business Analyst</h3>
 <h3 align="center">--------------------</h3>
