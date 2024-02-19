@@ -13,7 +13,7 @@ A dedicated and results-oriented professional with 4 years of industry experienc
 * 🧠  I'm learning AI and ML using Python
 
 <details> 
-  <summary><h2>👥 My Socials</h2></summary>
+  <h2>👥 My Socials</h2>
     <p align="left"> 
       <a href="https://www.github.com/ManasiHaldankar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
       <a href="https://www.linkedin.com/in/manasi-haldankar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -22,8 +22,6 @@ A dedicated and results-oriented professional with 4 years of industry experienc
 </details>
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Languages and Tools</h3>
 
