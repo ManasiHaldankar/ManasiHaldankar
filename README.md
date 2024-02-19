@@ -45,8 +45,6 @@ A dedicated and results-oriented professional with 4 years of industry experienc
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
-
   <p>
 
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
