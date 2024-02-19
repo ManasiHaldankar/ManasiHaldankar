@@ -19,7 +19,7 @@ A dedicated and results-oriented professional with 4 years of industry experienc
       <a href="https://leetcode.com/mhaldank/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" width="32" height="32" /></a>
     </p>
 
-<h3>Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 
   <p>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
