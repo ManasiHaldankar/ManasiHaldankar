@@ -39,10 +39,3 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   <br/>
   <p><b>Note:<b> Sorted alphabetically and doesn't reflect order of understanding or liking.</p>
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-<a href="http://www.github.com/ManasiHaldankar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasiHaldankar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</details>
