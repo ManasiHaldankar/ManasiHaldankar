@@ -25,17 +25,12 @@ A dedicated and results-oriented professional with 4 years of industry experienc
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming Languages</h3>
+  <h3>👨‍💻 Languages and Tools</h3>
 
   <p>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
      <a href="#"><img alt="R" src="https://img.shields.io/badge/R-8A2BE2"></a>
-  </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-013243.svg?logo=numpy&logoColor=white"></a>
@@ -44,11 +39,6 @@ A dedicated and results-oriented professional with 4 years of industry experienc
       <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit-Learn-150458.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="ggplot" src="https://img.shields.io/badge/ggplot-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-150458.svg?logo=numpy&logoColor=white"></a>
-  </p>
-
-  <h3>🗄️ Tools and Technologies</h3>
-
-  <p>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   </p>
